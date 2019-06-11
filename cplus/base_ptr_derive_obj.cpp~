@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+
+class A
+{
+public:
+	virtual void f() { std::cout << "base function" << endl; }
+};
+
+class B : public A
+{
+public:
+	virtual void f() { std::cout << "derived function" << endl; }
+};
+
+void f(string str)
+{
+  string temp = str;
+  temp[0] = 'x';
+  std::cout << temp << endl;
+}
+
+void f(string* str)
+{
+  string* temp = str;
+  temp[0] = 'x';
+  std::cout << *temp << endl;
+}
+
+int main(int argc, char *argv[])
+{
+	A* a = new B();
+	(*a).f();
+string str = "123";
+std::cout << str << endl; 
+f(&str);
+std::cout << str << endl; 
+	return 0;
+}

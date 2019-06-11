@@ -1,0 +1,226 @@
+https://item.jd.com/1817366.html
+
+ipconfig /flushdns
+
+1008 13:46
+1013 14:21
+
+1107 ly shz
+1108 ly
+1109 shz ly
+
+1202 morning
+1220 11:30- off
+
+yangyizhuo 15910393045 73111
+
+何华翔找你：分机71069
+
+
+打电话找联想帮你移机，电话71522                                           IT 71887
+
+
+80466496
+
+fangfang 73233 主楼305
+
+比亚迪股份有限公司电脑中心 
+IT服务台热线:0755-89888888 转 63333 
+
+div5bjsw1 byd@user
+
+*125# 查自己号(71312)   71542
+
+#208 75635 zhang.wang1@byd.com 陈武军  75635  谢晨晨
+#208找陈武军经理签完字，要去#314文控室盖章
+#305 +86-10-6950 8888 ext 75681 刘明管财务章   
+
+
+ftp:// 10.21.200.10
+用户名：LTEFT
+密码：123456
+
+
+\\10.21.0.9\ClearQuest7.01
+\\10.21.0.30\服务器数据待备份\6\data\software\btc
+\\10.21.0.35\Platform
+\\10.4.0.21
+\\10.31.99.15\共享临时2
+
+10.21.0.161 shz469703
+
+10.21.0.170
+40
+123
+
+10.4.0.97  sunhongzhe 123456
+
+我们组新的服务器地址为：
+10.4.0.117和10.4.0.118
+用户名为全拼
+密码：123456
+
+
+dingding:
+13439075719  Qq123456
+
+byd_sunhongzhe_tmp Qy40q6de
+
+
+svn: sunhongzhe wqx9hg
+
+ding.jinwei
+5qjsu6
+
+xiang.wenxi
+zzks1w
+
+VPN地址为https://vpn.byd.com.cn
+
+
+MERCURY   139139@byd
+Dlink-DIR-816 hao12345678
+
+androidPS[new] 1234567890
+
+ubuntu-ap rilps iloveyou66
+
+VIPP5 1234567@byd
+
+10.21.0.35
+
+
+
+
+jwc@lntu.edu.cn 辽宁工程jiaowuchu
+
+"We are what we repeatedly do. Excellence, then, is not an act, but a habit." -- Aristotle
+Life isn't about finding yourself. Life is about creating yourself.
+人一切的痛苦,本质上都是对自己的无能的愤怒。
+多情与豪迈早已不在，执著与坚韧已然常态，生活与生命悍然无奈，只有工作散发着光彩！
+Talent is enduring patience
+The flame that burns twice as bright burns half as long.
+幸福不过是欲望的暂时停止
+如果说优雅也有缺点的话，那就是你需要艰巨的工作才能得到它，需要良好的教育才能欣赏它。
+博学之，审问之，慎思之，明辨之，笃行之
+
+有志者,事竟成,破釜沉舟,百二秦关终属楚.
+苦心人,天不负,卧薪尝胆,三千越甲可吞吴 
+
+获得人生中的成功需要的专注与坚持不懈多过天才与机会
+
+昔我往矣，杨柳依依；今我来思，雨雪霏霏
+
+http://10.8.1.18:8080/Employee
+http://10.5.190.21:8080/Employee/Login/login.jsp
+531533 8693672
+
+
+VPN地址为https://vpn.byd.com.cn
+
+
+1592
+
+4.12 12:28
+
+
+10.21.200.153
+sunhongzhe
+123456
+
+代理
+
+10.4.20.210  23129
+
+
+mac:00 0e c6 c6 a8 f5
+ip 10.4.17.27
+
+printer 10.4.20.25
+lbp2900
+
+
+
+SHZ:BY1620A02400157
+
+
+LY: BY1619A03800345
+
+CMCC:18210073321
+CU:13146401201
+
+
+13911286564
+
+CDMA: 177 4654 3087  17746543087
+
+localhost;*.byd.com.cn;10.21.*.*;http://10.21.*
+
+
+
+1.163和126邮箱设置smtp服务器的时候，若端口选择25，验证方式要选择"无"，若端口选择587，验证方式要选择"SSL/TLS"
+2.在端口设置正确的情况下，本地验证，使用expressvpn apk会出现测试同事描述的现象，而使用speedvpn apk则没有问题，说明是测试同事所用免费vpn apk的问题，请测试同事使用这2个vpn分别验证并反馈结果，并且在对比机上也分别验证一下并反馈结果
+Show byd_wangqinggang_tmp added a comment - 2014-12-10 10:08 AM 1.163和126邮箱设置smtp服务器的时候，若端口选择25，验证方式要选择"无"，若端口选择587，验证方式要选择"SSL/TLS" 2.在端口设置正确的情况下，本地验证，使用expressvpn apk会出现测试同事描述的现象，而使用speedvpn apk则没有问题，说明是测试同事所用免费vpn apk的问题，请测试同事使用这2个vpn分别验证并反馈结果，并且在对比机上也分别验证一下并反馈结果 
+.Hide 
+Permalink BYD_测试_杨世杰 added a comment - 2014-12-10 5:16 PM 
+测试机 expressvpn apk 25 无 登陆不成功 选择SSL/tls 端口自动变成465可登陆成功
+speedvpn apk 25 无 登陆成功 选择SSL/tls 端口自动变成465可登陆成功
+未找到国外对比机X2只有国内X2
+expressvpn apk 25 无 登陆不成功提示无法连接服务器 选择SSL/tls 端口自动变成465可登陆成功
+speedvpn apk 25 无 登陆成功 选择SSL/tls 端口自动变成465可登陆成功
+
+
+经分析发现这种情况下发送无问题，是接受时的处理导致。
+目前为了防止同步邮件时重复保存附件，POP/IMAP账户在同步邮件时会先判断该附件是否已经下载，判断的依据包括名字，MIMETYPE, ContentID等字段。对于IMAP账户，即使完全相同的附件，其ContentID会不一样以做区分，但POP账户接收的附件这个字段都为空，在这种情况下，两个完全相同的附件会被当做一个附件处理保存。
+
+
+
+114
+muzisun 
+
+
+qcom website
+sun.hongzhe@byd.com Btc@469703
+
+
+13426012524@139.com  shz469703
+13439075719@139.com ly531533
+3094816527@qq.com 469703@byd.com
+adiligentpiggy@sina.com 02--66
+adiligentpiggy@yahho.com  02--66
+adiligentpiggy@21cn.com 469703@byd.com
+adiligentpiggy@hotmail.com 469703@byd.com
+
+shucang:
+user: adiligentpiggy，psw : 02-66
+csdn: adiligentpiggy byd1234 Btc@469703
+
+\\10.21.0.35\Platform\Driver-Team\平台资料\qualcomm8909
+
+
+\\10.21.0.117\qiaojixia
+\\10.21.0.145\youzhong
+\\10.21.0.163\xiangwenxi
+\\10.21.0.140\wangdingan
+\\10.21.0.140\xiaowei1
+\\10.21.0.159\linying
+\\10.21.0.160\hanliwei
+\\10.21.200.171\furuilin
+\\10.21.0.163\shenzhiyong
+\\10.21.0.168\zhaijing
+\\10.21.0.148\luojunxianzj
+\\10.21.0.141\baiyu yzg
+\\10.21.0.143\xinchao
+\\10.21.0.158\sunshicong
+\\10.21.200.169\chengxiaopeng
+\\10.21.0.125\qinjianan
+
+12345678cs
+
+
+621660 0100000209120
+
+frl393471
+
+1180670
+392443 wd

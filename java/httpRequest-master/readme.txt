@@ -1,0 +1,1 @@
+java  -cp .;D:\code\test\javatest\httpRequest-master\lib\httpclient-4.5.3.jar;D:\code\test\javatest\httpRequest-master\lib\httpcore-4.4.6.jar;D:\code\test\javatest\httpRequest-master\lib\httpmime-4.5.5.jar;D:\code\test\javatest\httpRequest-master\lib\commons-logging-1.2.jar;D:\code\test\javatest\httpRequest-master\lib\fastjson-1.2.21.jar;  com.example.demo.HttpClient4Demo2

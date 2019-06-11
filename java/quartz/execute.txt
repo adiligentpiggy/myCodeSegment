@@ -1,0 +1,4 @@
+javac -cp D:\code\test\javatest\quartz\lib\c3p0-0.9.1.1.jar;D:\code\test\javatest\quartz\lib\log4j-1.2.16.jar;D:\code\test\javatest\quartz\lib\quartz-2.2.3.jar;D:\code\test\javatest\quartz\lib\quartz-jobs-2.2.3.jar;D:\code\test\javatest\quartz\lib\slf4j-api-1.7.7.jar;D:\code\test\javatest\quartz\lib\slf4j-log4j12-1.7.7.jar; QuartzTest.java -encoding UTF-8
+
+
+java -cp D:\code\test\javatest\quartz\lib\c3p0-0.9.1.1.jar;D:\code\test\javatest\quartz\lib\log4j-1.2.16.jar;D:\code\test\javatest\quartz\lib\quartz-2.2.3.jar;D:\code\test\javatest\quartz\lib\quartz-jobs-2.2.3.jar;D:\code\test\javatest\quartz\lib\slf4j-api-1.7.7.jar;D:\code\test\javatest\quartz\lib\slf4j-log4j12-1.7.7.jar; QuartzTest
