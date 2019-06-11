@@ -1,4 +1,0 @@
-D:\code\test\javatest\rabittmq_tool\rabbitmq>javac -cp D:\code\test\javatest\rabittmq_tool\commons-io-2.6.jar;D:\code\test\javatest\rabittmq_tool\rabbitmq-client.jar;D:\code\test\javatest\rabittmq_tool\fastjson-1.2.47.jar; Consumer.java -encoding UTF-8
-
-
-D:\code\test\javatest\rabittmq_tool\rabbitmq>java -cp D:\code\test\javatest\rabittmq_tool\commons-io-2.6.jar;D:\code\test\javatest\rabittmq_tool\rabbitmq-client.jar;D:\code\test\javatest\rabittmq_tool\fastjson-1.2.47.jar; Consumer
